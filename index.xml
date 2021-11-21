@@ -4,6 +4,10 @@
     <title>Coffee by Moonlight</title>
     <link>https://nighttime.coffee/</link>
     <description>Recent content on Coffee by Moonlight</description>
+    <image>
+      <url>https://nighttime.coffee/images</url>
+      <link>https://nighttime.coffee/images</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://nighttime.coffee/index.xml" rel="self" type="application/rss+xml" />
   </channel>
